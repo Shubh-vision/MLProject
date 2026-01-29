@@ -3,9 +3,14 @@ Name: mlproject
 Version: 0.0.1
 Author: shubh
 Author-email: shubhamanand799@gmail.com
+Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: catboost
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
